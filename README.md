@@ -74,7 +74,6 @@
 A billing application involving sales and purchase invoice management.
 
 - Worked on application features using the MERN stack.
-- Contributed to frontend and backend development.
 - Worked with REST APIs and authentication.
 - Performed manual testing and helped resolve application issues.
 
