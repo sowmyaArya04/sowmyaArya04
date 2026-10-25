@@ -184,7 +184,7 @@ A web-based system designed to support violence detection, incident monitoring, 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/sowmyaswasthik0417">
+  <a href="https://github.com/sowmyaArya04/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/Sowmya-Arya-99S04/">
