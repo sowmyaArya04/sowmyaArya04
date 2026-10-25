@@ -8,9 +8,7 @@
   Passionate about building responsive, user-friendly web applications and scalable full-stack solutions.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sowmyaswasthik0417&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
+
 
 ---
 
