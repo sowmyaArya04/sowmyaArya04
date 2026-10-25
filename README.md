@@ -136,7 +136,7 @@ An interior design website showcasing residential and commercial interior projec
   <a href="https://github.com/sowmyaswasthik0417">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://aktikdesigns.com">
+  <a href="https://myportfolio-i3ot.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
